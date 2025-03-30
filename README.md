@@ -1,2 +1,2 @@
 # Python_-Projects
-Trying Easy to Hard Python Projects 
+Trying Easy to Basic Medium Python Projects 
